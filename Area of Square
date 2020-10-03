@@ -1,0 +1,11 @@
+# Python code to find the area of the square 
+  
+def areaSquare( side ): 
+    area = side * side 
+    return area 
+  
+# Driver Code 
+side = 3
+print(areaSquare(side)) 
+  
+#output = 9
